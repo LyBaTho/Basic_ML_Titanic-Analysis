@@ -1,2 +1,5 @@
-# EDA_Titanic-Analysis
-Analyze Titanic dataset to determine relationship between variables  and use different Classification algorithms to predict survival status of new observers
+Title: Exploratory Analysis and Machine Learning for Survival Prediction in Python
+
+Abstract: This research project focuses on predicting survival status using machine learning classification algorithms in Python. The study includes Exploratory Data Analysis (EDA) and comprehensive data preprocessing, encompassing data cleaning, standardization, transformation, feature engineering, and data splitting. Classification algorithms are applied to assess the predictive performance of the models, with the highest accuracy model selected for predicting the survival status of three random observers. The prediction model takes into account key variables such as 'Pclass', 'Sex', 'Age', 'SibS', 'Parch', 'Fare', 'Embarked', and 'Survived' to evaluate the risk and likelihood of successful survival. The experimental results demonstrate a promising prediction accuracy of approximately 80% in classifying survival status. 
+
+However, it is important to acknowledge that this study is based on a relatively small dataset with 891 rows and 11 columns. For larger datasets, further investigation into variable relationships and utilization of advanced data modeling techniques are recommended to improve the accuracy and generalizability of the prediction model.
